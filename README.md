@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Mariacmd
 - 👀 I’m interested in ... getting a job
 - 🌱 I’m currently learning ... computer science
-- 📫 How to reach me ...endrasik@umich.edu
 - ⚡ Fun fact: ...my favorite language is python
 
 <!---
